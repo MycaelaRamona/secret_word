@@ -5,11 +5,9 @@ function App() {
 
   return (
     <>
-      <div>
+      <div className='App'>
           <h2>Secret Word Game</h2>
 
-          <p>Em Construção!</p>
-          <p>By Mycaela Ramona</p>
       </div>
 
     </>

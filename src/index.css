@@ -1,12 +1,11 @@
-:root {
-  font-family:'Courier new';
-
-  color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+html, body {
+  height: 100%;
 }
 
 body {
+  font-family: 'Courier New', Courier, monospace;
   margin: 0;
-  padding: 40px 0px 0px 0px;
+  padding: 0;
+  background: linear-gradient(180deg, rgb(41, 151, 181) 20%, rgba(0, 0, 0, 1) 80%);
+  color: #fff;
 }
